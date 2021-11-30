@@ -7,7 +7,7 @@ _Preparation for algorithm coding tests._
 
 ### Coding test resources
 
-- [프로그래머스] '어서와, 자료구조와 알고리즘은 처음이지?'
-- [책] '이것이 코딩테스트다'
+- [programmers] '어서와, 자료구조와 알고리즘은 처음이지?'
+- [book] '이것이 코딩테스트다'
 - LeetCode Problems
 - Baekjoon Algorithms
