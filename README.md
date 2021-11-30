@@ -1,2 +1,13 @@
 # algorithm-test
-알고리즘 코딩테스트 prep.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
+
+_Preparation for algorithm coding tests._
+
+### Coding test resources
+
+- [프로그래머스] '어서와, 자료구조와 알고리즘은 처음이지?'
+- [책] '이것이 코딩테스트다'
+- LeetCode Problems
+- Baekjoon Algorithms
